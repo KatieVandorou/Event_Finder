@@ -6,5 +6,5 @@ Performs:
 - pspl
 - determination of microlensing candidate based off those tests
 
-see [plots](https://KatieVandorou.github.io/Event_Finder/event_finder_2018DC.html) made from the 2018 Data Challenge. 
+see [plots](https://KatieVandorou.github.io/Event_Finder/Test_v1.0/event_finder_2018DC.html) made from the 2018 Data Challenge. 
 
